@@ -1,16 +1,17 @@
-### Hi there 👋
+# 박도영 Park Do Young   
+  
+---
 
-<!--
-**ehdud5578/ehdud5578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work Experience 👀
+- 인천대학교 정보통신공학과 2015.02 ~ (수료)
+- IPP 일학습 병행제 2020.08 ~ 2021.02
 
-Here are some ideas to get you started:
+### Tech Stack
+ techs that I`ve used at least once 
+![](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  ![](https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=Mysql&logoColor=white) ![](https://img.shields.io/badge/css-1572b6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Html-e34f26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/aws-232f3e?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+now I`m Learning
+![](https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white)
+Contect Me!
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](ehdud5578@gamil.com)
