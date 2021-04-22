@@ -14,5 +14,5 @@
 now I`m Learning  
 ![](https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white)  
 
-Contect Me!    
+Contact Me!    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdud5578@gamil.com)](mailto:ehdud5578@gmail.com)
