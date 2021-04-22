@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/aws-232f3e?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 now I`m Learning  
-![](https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white)
-Contect Me!  
+![](https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white)  
+
+Contect Me!    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](ehdud5578@gamil.com)
