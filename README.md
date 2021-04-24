@@ -14,7 +14,7 @@
 
 
 <h4 align="center"> now I`m Learning!</h4>
-<p align="cneter"><img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"></a></p>
+<p align="center"><img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"></a></p>
 
 #### Contact Me!    
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdud5578@gamil.com)](mailto:ehdud5578@gmail.com)
