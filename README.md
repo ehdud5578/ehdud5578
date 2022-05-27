@@ -1,72 +1,20 @@
-# 박도영의 포트폴리오
-
-## 👨‍💻 Web Developer
-
-😀  안녕하세요 신입 프론트앤드 개발자 박도영입니다. 😃
-
-## 👦 Profile
-
+# 박도영 Park Do Young   
+  
 ---
 
-👶  1996년 6월 17일 출생
+### Work Experience 👀
+- 인천대학교 정보통신공학과 2015.02 ~ (수료)
+- IPP 일학습 병행제 2020.08 ~ 2021.02
 
-🏫  제천제일고등학교 졸업 (2012.03. ~ 2015.02.)
+<h3 align="center">  Tech Stack </h3>
 
-👨‍🎓  인천대학교 정보통신공학과 졸업 (2015.03 ~ 2022.02.)
+<p align="center">techs that I`ve used at least once</p>
+<p align="center"><img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a> <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"></a> <img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=Mysql&logoColor=white"></a> <img src="https://img.shields.io/badge/css-1572b6?style=flat-square&logo=css3&logoColor=white"></a> <img src="https://img.shields.io/badge/Html-e34f26?style=flat-square&logo=html5&logoColor=white"></a> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"></a> <img src="https://img.shields.io/badge/aws-232f3e?style=flat-square&logo=Amazon-AWS&logoColor=white"></a></p>
 
-## 💡 Contact
 
----
 
-📭  ehdud5578@gmail.com 
+<h4 align="center"> now I`m Learning!</h4>
+<p align="center"><img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"></a></p>
 
-📞  010-5003-5578
-
-## 🎞 Career
-
----
-
-- STC Networks internship (2020.08.01 ~ 2021.02.28.)
-- URACLE (2022.05.03 ~ 재직중)
-
-## 🗃 Github
-
----
-
-[ehdud5578 - Overview](https://github.com/ehdud5578)
-
-## 📑 Certificate
-
----
-
-- OPIC IM (2021.12.26.)
-
-## ⚒ Personal & Team Project
-
----
-
-- [KOSA project](https://github.com/Ta-Lan)
-    
-    [나의 프로젝트 1 (Android)](https://www.notion.so/1-Android-6cbb2755d8dc481d88ddfcd10443c701)
-    
-    [나의 프로젝트 2 (Android)](https://www.notion.so/2-Android-7d066e69822d4476bf8c771ab9d40882)
-    
-    [나의 프로젝트 3 (Web)](https://www.notion.so/3-Web-6bd94447a19347d8be98783ae07a3b07)
-    
-
-## 🛠 Project in Company
-
----
-
-- URACLE UMS3.0
-    
-    [나의 기술 경력서 1](https://www.notion.so/1-5281688413714f1eb64ea93b3d33da2a)
-    
-    [나의 기술 경력서 2](https://www.notion.so/2-8110ecc1eb4b4c499e68b0df0de5e317)
-    
-    [나의 기술 경력서 3](https://www.notion.so/3-7fd67991f7444a748151cd4f699ff1f7)
-    
-
-[Skills](https://www.notion.so/a578b5cbd4404726bdf85bc154aaecd3)
-
-# 😄 감사합니다.
+#### Contact Me!    
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehdud5578@gamil.com)](mailto:ehdud5578@gmail.com)
